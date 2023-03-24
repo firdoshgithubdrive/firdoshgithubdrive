@@ -1,7 +1,7 @@
 <h1 align="center">Hello World👋!</h1>
 <h3 align="center">Hi there 🙆‍♀️, I'm Firdosh Alam, a fullstack developer with a passion for ui ux design and web creation.</h3>
 
-<img align="right" alt="Coding" width="200" src="https://img.freepik.com/premium-vector/people-chatting-vector-icon-illustration-logo-mascot-hand-drawn-concept-trandy-cartoon_519183-274.jpg">
+<img align="right" alt="Coding" width="150" src="https://img.freepik.com/premium-vector/people-chatting-vector-icon-illustration-logo-mascot-hand-drawn-concept-trandy-cartoon_519183-274.jpg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firdoshgithubdrive&label=Profile%20views&color=0e75b6&style=flat" alt="firdoshgithubdrive" /> </p>
