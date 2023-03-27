@@ -17,6 +17,14 @@
 - 🏆 2022 Goals: Contribute more to Open Source Projects.
 - 📫 How to reach me **firdosha304@gmail.com**
 
+Believe in five programming principles:
+
+- **KISS- Keep It Simple,Stupid.**
+- **DRY - Dont Repeat Yourself.**
+- **DTIIW - Don't Touch If It Works.**
+- **YAGNI- You arn't Gonna Need It.**
+- **CCAAC- Clean Code At All Cost.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
