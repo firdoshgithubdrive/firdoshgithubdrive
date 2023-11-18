@@ -14,7 +14,7 @@
 - 👨‍💻 All of my projects are available at [https://cosmic-taiyaki-410b4c.netlify.app](https://cosmic-taiyaki-410b4c.netlify.app)
 - 🌱 I’m currently learning **DSA**
 - 💬 Ask me about **Web development & MERN**
-- 🏆 2022 Goals: Contribute more to Open Source Projects.
+- 🏆 2023 Goals: Contribute more to Open Source Projects.
 - 📫 How to reach me **firdosha304@gmail.com**
 
 Believe in five programming principles:
