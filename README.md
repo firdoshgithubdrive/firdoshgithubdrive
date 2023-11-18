@@ -1,5 +1,5 @@
 <h1 align="center">Hello World👋!</h1>
-<h3 align="center">Hi there 🙆‍♀️, I'm Firdosh Alam, a fullstack developer with a passion for ui ux design and web creation.</h3>
+<h3 align="center">Hi there 🙆‍♀️, I'm Firdosh Alam, a developer with a passion for ui ux design and web creation.</h3>
 
 <img align="right" alt="Coding" width="150" src="https://img.freepik.com/premium-vector/people-chatting-vector-icon-illustration-logo-mascot-hand-drawn-concept-trandy-cartoon_519183-274.jpg">
 
