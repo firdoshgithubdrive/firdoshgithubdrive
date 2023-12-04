@@ -10,7 +10,7 @@
 <h3>🧐 Some Things About Me</h3>
 
 - 🔭 I’m currently working on *Projects*
-- 🌱 I’m currently learning *FullStack Developer form Newton School*
+//- 🌱 I’m currently learning *FullStack Developer form Newton School*//
 - 👨‍💻 All of my projects are available at [https://cosmic-taiyaki-410b4c.netlify.app](https://cosmic-taiyaki-410b4c.netlify.app)
 - 🌱 I’m currently learning **DSA**
 - 💬 Ask me about **Web development & MERN**
